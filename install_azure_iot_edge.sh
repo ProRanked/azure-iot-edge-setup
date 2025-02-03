@@ -29,6 +29,6 @@ sudo apt-get install -y aziot-edge
 
 echo "Installation completed successfully! Please add the IoT Edge device connection string to the /etc/aziot/config.toml file."
  
- The script downloads the Microsoft packages configuration for Ubuntu 24.04, installs the package, updates the package list, and installs the Moby Engine and Azure IoT Edge. 
- Run the script by executing the following command: 
- chmod +x install_azure_iot_edge.sh
+ # The script downloads the Microsoft packages configuration for Ubuntu 24.04, installs the package, updates the package list, and installs the Moby Engine and Azure IoT Edge. 
+ # Run the script by executing the following command: 
+ # chmod +x install_azure_iot_edge.sh
